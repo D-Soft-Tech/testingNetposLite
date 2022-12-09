@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestingNetposContactlessLite</string>
+    <string name="launch_netpos_contactless">Launch Netpos Contactless</string>
+</resources>
